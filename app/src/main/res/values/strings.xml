@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fragment Dinamico</string>
+    <string name="btn_tex">Ver Fragment</string>
+    <string name="btn_tex_fragment">Show Toast</string>
+</resources>
